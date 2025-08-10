@@ -1,0 +1,6 @@
+from_id,to_id,wire_type,num_cores,section_mm2,voltage_kv,length_m,parallel_count,layer,color,linetype,label_text,frame
+P-HD-125,P-HD-126,AL/XLPE 4x50,4,50,0.4,51,1,0.4kV_SAU,2,continuous,AL/XLPE 4x50,FRAME_1
+P-HD-126,T-HD-128,CXV/DSTA 2x25,2,25,0.4,53,1,0.4kV_SAU,3,continuous,CXV/DSTA 2x25,FRAME_1
+P-HD-126,P-HD-127,AL/XLPE 2x25,2,25,0.4,40,1,0.4kV_SAU,3,continuous,AL/XLPE 2x25,FRAME_1
+P-HD-128,T-HD-129,CXV/DSTA 2x25,2,25,0.4,60,3,0.4kV_SAU,3,continuous,CXV/DSTA 2x25,FRAME_1
+T-HD-129,T-HD-130,AL/XLPE 4x50,4,50,0.4,60,3,0.4kV_SAU,2,continuous,AL/XLPE 4x50,FRAME_2

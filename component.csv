@@ -1,5 +1,0 @@
-STT,kind_of_block,block_name,position X1(src_position_x),position Y1(src_position_y),width,height
-1,pole_types,LT18m_NB,1200,450,,
-1.1,foundations,MONG_2LT18M,1200,600,,
-1.2,crossarms,XA_GIANG_COT,1200,700,,
-1.3,grounding,ONG_XOAN_CAP,1200,800,,
