@@ -1,0 +1,62 @@
+{
+  "BLOCK_NAME": "ong_nhua_xoan_luon_cap",
+  "LAYERS": {
+    "0": {
+      "color": 7
+    }
+  },
+  "entities": [
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -64.725487,
+        -71.95885,
+        75.083087,
+        -71.95885
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        75.083087,
+        -71.95885,
+        52.80971,
+        8642.927857
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        52.80971,
+        8642.927857,
+        -87.192455,
+        8642.927857
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -87.192455,
+        8642.927857,
+        -64.725487,
+        -71.95885
+      ]
+    }
+  ]
+}

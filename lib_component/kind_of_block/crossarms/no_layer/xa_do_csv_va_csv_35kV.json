@@ -1,0 +1,2252 @@
+{
+  "BLOCK_NAME": "xa_do_csv_va_csv_35kV",
+  "LAYERS": {
+    "0": {
+      "color": 7
+    },
+    "BAO": {
+      "color": 7
+    }
+  },
+  "entities": [
+    {
+      "type": "HATCH",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "HATCH"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        1062.849764,
+        -34.638707,
+        1309.371112,
+        -34.638707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        1309.371112,
+        -34.638707,
+        1309.371112,
+        35.361293
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        1309.371112,
+        35.361293,
+        -413.98074,
+        35.361293
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -413.98074,
+        -34.638707,
+        922.167854,
+        -34.638707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -413.98074,
+        28.361293,
+        1309.371112,
+        28.361293
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        -413.98074,
+        0.361293,
+        1309.371112,
+        0.361293
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        1259.371112,
+        57.557913,
+        1259.371112,
+        -56.835326
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        1259.371112,
+        42.312268,
+        1259.371112,
+        20.58341
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        1250.371112,
+        35.361293,
+        1250.371112,
+        28.361293
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        1268.371112,
+        35.361293,
+        1268.371112,
+        28.361293
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        -360.177168,
+        11.361293,
+        -360.177168,
+        -10.638707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        55.139695,
+        -474.138707,
+        -413.98074,
+        -474.138707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        55.139695,
+        -499.638707,
+        -413.98074,
+        -499.638707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        55.139695,
+        -531.138707,
+        -413.98074,
+        -531.138707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -413.98074,
+        -531.138707,
+        -413.98074,
+        -468.138707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -413.98074,
+        -468.138707,
+        55.139695,
+        -468.138707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        -363.98074,
+        -488.638707,
+        -363.98074,
+        -510.638707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -413.98074,
+        -488.638707,
+        -413.98074,
+        -510.638707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -413.98074,
+        -468.138707,
+        -413.98074,
+        -531.138707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        1.336123,
+        11.361293,
+        1.336123,
+        -10.638707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        55.139695,
+        -531.138707,
+        55.139695,
+        -468.138707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        5.139695,
+        -488.638707,
+        5.139695,
+        -510.638707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        55.139695,
+        -488.638707,
+        55.139695,
+        -510.638707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        55.139695,
+        -468.138707,
+        55.139695,
+        -531.138707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        55.139695,
+        -468.138707,
+        86.231082,
+        -522.932188
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        86.231082,
+        -522.932188,
+        55.139695,
+        -531.138707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        1188.853856,
+        28.361293,
+        1062.849764,
+        -34.638707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        1048.171946,
+        28.361293,
+        922.167854,
+        -34.638707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        1062.849764,
+        -34.638707,
+        922.167854,
+        -34.638707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        922.167854,
+        -34.638707,
+        55.139695,
+        -468.138707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        1063.576907,
+        28.361293,
+        58.544266,
+        -474.138707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        1062.849764,
+        -34.638707,
+        86.231082,
+        -522.932188
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        70.685388,
+        -495.535448,
+        1118.512901,
+        28.361293
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -413.98074,
+        -34.638707,
+        -413.98074,
+        35.361293
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        1259.371112,
+        41.703126,
+        1259.371112,
+        16.934627
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        1252.371112,
+        35.361293,
+        1266.371112,
+        35.361293
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1480.033411,
+        69.576279,
+        1480.033411,
+        81.599396
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1480.033411,
+        81.599396,
+        1353.978202,
+        81.599396
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1353.978202,
+        81.599396,
+        1292.751386,
+        56.970758
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1292.751386,
+        56.970758,
+        1247.731668,
+        56.970758
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1247.731668,
+        56.970758,
+        1247.731668,
+        35.361293
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1247.731668,
+        35.361293,
+        1346.775047,
+        35.361293
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1292.751386,
+        56.970758,
+        1292.751386,
+        35.361293
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1346.775047,
+        13.751829,
+        1346.775047,
+        126.619114
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1346.775047,
+        126.619114,
+        1353.978202,
+        126.619114
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1353.978202,
+        126.619114,
+        1353.978202,
+        13.751829
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1353.978202,
+        13.751829,
+        1346.775047,
+        13.751829
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1364.782934,
+        13.751829,
+        1371.986089,
+        13.751829
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1371.986089,
+        13.751829,
+        1371.986089,
+        126.619114
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1371.986089,
+        126.619114,
+        1364.782934,
+        126.619114
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1364.782934,
+        126.619114,
+        1364.782934,
+        13.751829
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1480.033411,
+        69.576279,
+        1371.986089,
+        31.759716
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1371.986089,
+        31.759716,
+        1353.978202,
+        31.759716
+      ]
+    },
+    {
+      "type": "SPLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "SPLINE"
+    },
+    {
+      "type": "SPLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "SPLINE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1454.949921,
+        36.579679,
+        1454.949921,
+        81.599396
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1472.957808,
+        36.579679,
+        1472.957808,
+        81.599396
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1472.957808,
+        36.579679,
+        1454.949921,
+        36.579679
+      ]
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1529.982784,
+        226.412821,
+        1397.924945,
+        226.412821
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1529.982784,
+        224.161836,
+        1397.924945,
+        224.161836
+      ]
+    },
+    {
+      "type": "SPLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "SPLINE"
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1430.939405,
+        207.122119,
+        1430.939405,
+        224.161836
+      ]
+    },
+    {
+      "type": "SPLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "SPLINE"
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1496.968324,
+        207.122119,
+        1496.968324,
+        224.161836
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1430.939405,
+        134.1224,
+        1430.939405,
+        131.121086
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1496.968324,
+        134.1224,
+        1496.968324,
+        131.121086
+      ]
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "SPLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "SPLINE"
+    },
+    {
+      "type": "SPLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "SPLINE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1529.982784,
+        179.142118,
+        1397.924945,
+        179.142118
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1529.982784,
+        181.393104,
+        1397.924945,
+        181.393104
+      ]
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1529.982784,
+        136.373386,
+        1397.924945,
+        136.373386
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1529.982784,
+        134.1224,
+        1397.924945,
+        134.1224
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1430.939405,
+        162.102402,
+        1430.939405,
+        179.142118
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1496.968324,
+        162.102402,
+        1496.968324,
+        179.142118
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1516.476868,
+        117.61517,
+        1411.43086,
+        117.61517
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1516.476868,
+        131.121086,
+        1516.476868,
+        117.61517
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1516.476868,
+        131.121086,
+        1411.43086,
+        131.121086
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1489.465038,
+        117.61517,
+        1489.465038,
+        81.599396
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1438.442691,
+        117.61517,
+        1438.442691,
+        81.599396
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1489.465038,
+        117.61517,
+        1411.43086,
+        117.61517
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1489.465038,
+        81.599396,
+        1438.442691,
+        81.599396
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1454.949921,
+        457.731881,
+        1454.949921,
+        458.110321
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1472.957808,
+        457.731881,
+        1472.957808,
+        457.913524
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1472.957808,
+        445.726623,
+        1454.949921,
+        445.726623
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1448.947292,
+        441.224651,
+        1448.947292,
+        445.726623
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1478.960437,
+        441.224651,
+        1478.960437,
+        445.726623
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1463.953864,
+        441.224651,
+        1463.953864,
+        445.726623
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1478.960437,
+        445.726623,
+        1448.947292,
+        445.726623
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1496.968324,
+        441.224651,
+        1496.968324,
+        432.220707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1430.939405,
+        441.224651,
+        1430.939405,
+        432.220707
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1496.968324,
+        441.224651,
+        1430.939405,
+        441.224651
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1496.968324,
+        432.220707,
+        1430.939405,
+        432.220707
+      ]
+    },
+    {
+      "type": "SPLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "SPLINE"
+    },
+    {
+      "type": "SPLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "SPLINE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1529.982784,
+        404.240706,
+        1397.924945,
+        404.240706
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1529.982784,
+        406.491692,
+        1397.924945,
+        406.491692
+      ]
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1496.968324,
+        342.181272,
+        1496.968324,
+        359.220989
+      ]
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1430.939405,
+        342.181272,
+        1430.939405,
+        359.220989
+      ]
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1529.982784,
+        316.452257,
+        1397.924945,
+        316.452257
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1529.982784,
+        314.201271,
+        1397.924945,
+        314.201271
+      ]
+    },
+    {
+      "type": "SPLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "SPLINE"
+    },
+    {
+      "type": "SPLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "SPLINE"
+    },
+    {
+      "type": "SPLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "SPLINE"
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1430.939405,
+        297.161555,
+        1430.939405,
+        314.201271
+      ]
+    },
+    {
+      "type": "SPLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "SPLINE"
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1496.968324,
+        297.161555,
+        1496.968324,
+        314.201271
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1529.982784,
+        269.181553,
+        1397.924945,
+        269.181553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1529.982784,
+        271.432539,
+        1397.924945,
+        271.432539
+      ]
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1496.968324,
+        252.141837,
+        1496.968324,
+        269.181553
+      ]
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1430.939405,
+        252.141837,
+        1430.939405,
+        269.181553
+      ]
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1472.957808,
+        490.74634,
+        1454.949921,
+        490.74634
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1447.384876,
+        445.726623,
+        1480.522853,
+        445.726623
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1447.384876,
+        457.731881,
+        1480.522853,
+        457.731881
+      ]
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1457.663933,
+        460.791745,
+        1457.663933,
+        472.028893
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1469.669191,
+        460.791745,
+        1469.669191,
+        472.028893
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1478.925497,
+        460.791745,
+        1478.925497,
+        472.028893
+      ]
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1448.407627,
+        472.028893,
+        1448.407627,
+        460.791745
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1453.03578,
+        475.088757,
+        1474.297344,
+        475.088757
+      ]
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1453.03578,
+        457.731881,
+        1474.297344,
+        457.731881
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1472.957808,
+        474.907113,
+        1472.957808,
+        490.74634
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1454.949921,
+        474.710316,
+        1454.949921,
+        490.74634
+      ]
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1496.968324,
+        387.20099,
+        1496.968324,
+        404.240706
+      ]
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1430.939405,
+        387.20099,
+        1430.939405,
+        404.240706
+      ]
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1529.982784,
+        361.471974,
+        1397.924945,
+        361.471974
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1529.982784,
+        359.220989,
+        1397.924945,
+        359.220989
+      ]
+    },
+    {
+      "type": "SPLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "SPLINE"
+    },
+    {
+      "type": "SPLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "raw_code": "SPLINE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1411.43086,
+        131.121086,
+        1411.43086,
+        117.61517
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 245
+      },
+      "pointsd": [
+        1478.925497,
+        460.791745,
+        1478.925497,
+        460.791745
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -350.177168,
+        -10.638707,
+        -370.177168,
+        -10.638707
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -380.177168,
+        -0.638707,
+        -380.177168,
+        1.361293
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -370.177168,
+        11.361293,
+        -350.177168,
+        11.361293
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -340.177168,
+        1.361293,
+        -340.177168,
+        -0.638707
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -353.98074,
+        -510.638707,
+        -373.98074,
+        -510.638707
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -383.98074,
+        -500.638707,
+        -383.98074,
+        -498.638707
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -373.98074,
+        -488.638707,
+        -353.98074,
+        -488.638707
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -343.98074,
+        -498.638707,
+        -343.98074,
+        -500.638707
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -8.663877,
+        -10.638707,
+        11.336123,
+        -10.638707
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        21.336123,
+        -0.638707,
+        21.336123,
+        1.361293
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        11.336123,
+        11.361293,
+        -8.663877,
+        11.361293
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -18.663877,
+        1.361293,
+        -18.663877,
+        -0.638707
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -4.860305,
+        -510.638707,
+        15.139695,
+        -510.638707
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        25.139695,
+        -500.638707,
+        25.139695,
+        -498.638707
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        15.139695,
+        -488.638707,
+        -4.860305,
+        -488.638707
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -14.860305,
+        -498.638707,
+        -14.860305,
+        -500.638707
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    }
+  ]
+}

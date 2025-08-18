@@ -1,0 +1,18 @@
+{
+  "BLOCK_NAME": "cap_ngam_35kV_den_cot_so_1",
+  "LAYERS": {
+    "0": {
+      "color": 7
+    }
+  },
+  "entities": [
+    {
+      "type": "HATCH",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "HATCH"
+    }
+  ]
+}

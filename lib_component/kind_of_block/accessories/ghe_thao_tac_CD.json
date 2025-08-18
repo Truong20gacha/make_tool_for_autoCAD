@@ -1,0 +1,315 @@
+{
+  "BLOCK_NAME": "ghe_thao_tac_CD",
+  "LAYERS": {
+    "DANTRAM": {
+      "color": 7
+    },
+    "BAO": {
+      "color": 7
+    },
+    "LOPHAN": {
+      "color": 2
+    }
+  },
+  "entities": [
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM",
+        "color": 1
+      },
+      "pointsd": [
+        -809.575457,
+        840.910552,
+        807.424542,
+        840.910552
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM",
+        "color": 1
+      },
+      "pointsd": [
+        -804.325457,
+        826.210552,
+        802.174542,
+        826.210552
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM",
+        "color": 1
+      },
+      "pointsd": [
+        -804.325457,
+        437.710553,
+        -8.425458,
+        437.710553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM",
+        "color": 1
+      },
+      "pointsd": [
+        -804.325457,
+        452.410553,
+        -8.425458,
+        452.410553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "pointsd": [
+        -757.075457,
+        63.910553,
+        754.924542,
+        63.910553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -809.575457,
+        7.210553,
+        807.424542,
+        7.210553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "pointsd": [
+        -809.575457,
+        0.910553,
+        807.424542,
+        0.910553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "pointsd": [
+        593.257915,
+        0.910553,
+        -750.386358,
+        0.910553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "LOPHAN"
+      },
+      "pointsd": [
+        -757.075457,
+        63.910553,
+        -809.575457,
+        0.910553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "pointsd": [
+        -809.575457,
+        840.910552,
+        -809.575457,
+        0.910553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "pointsd": [
+        -809.575457,
+        840.910552,
+        -809.575457,
+        0.910553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "pointsd": [
+        -757.075457,
+        840.910552,
+        -757.075457,
+        63.910553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "pointsd": [
+        -757.075457,
+        840.910552,
+        -757.075457,
+        63.910553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -804.325457,
+        840.910552,
+        -804.325457,
+        0.910553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM",
+        "color": 1
+      },
+      "pointsd": [
+        6.274542,
+        437.710553,
+        802.174542,
+        437.710553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM",
+        "color": 1
+      },
+      "pointsd": [
+        6.274542,
+        452.410553,
+        802.174542,
+        452.410553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "LOPHAN"
+      },
+      "pointsd": [
+        754.924542,
+        63.910553,
+        807.424542,
+        0.910553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "pointsd": [
+        807.424542,
+        840.910552,
+        807.424542,
+        0.910553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "pointsd": [
+        807.424542,
+        840.910552,
+        807.424542,
+        0.910553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "pointsd": [
+        807.424542,
+        840.910552,
+        807.424542,
+        0.910553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM",
+        "color": 1
+      },
+      "pointsd": [
+        -8.425458,
+        840.910552,
+        -8.425458,
+        7.210553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM",
+        "color": 1
+      },
+      "pointsd": [
+        6.274542,
+        840.910552,
+        6.274542,
+        7.210553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "pointsd": [
+        754.924542,
+        840.910552,
+        754.924542,
+        63.910553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        802.174542,
+        840.910552,
+        802.174542,
+        0.910553
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "BLOCK_NAME": "cap_ngam_35kV_tu_cot57]",
+  "LAYERS": {
+    "0": {
+      "color": 7
+    }
+  },
+  "entities": [
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 7
+      },
+      "pointsd": [
+        684.56465,
+        10936.037446,
+        684.56465,
+        10480.26893
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 7
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 7
+      },
+      "pointsd": [
+        640.927986,
+        10356.124896,
+        17.353667,
+        10020.301459
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 7
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 7
+      },
+      "pointsd": [
+        -13.087089,
+        9933.699094,
+        29.822176,
+        -36.720798
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 7
+      },
+      "pointsd": [
+        624.56465,
+        10936.037446,
+        624.56465,
+        10480.26893
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 7
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 7
+      },
+      "pointsd": [
+        594.123894,
+        10393.666565,
+        -29.450425,
+        10057.843128
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 7
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 7
+      },
+      "pointsd": [
+        -73.087089,
+        9933.699094,
+        -30.177824,
+        -36.720798
+      ]
+    },
+    {
+      "type": "HATCH",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "HATCH"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+﻿parent_id,template_module,name_of_template,x,y,rotation_deg,scale,layer,JSON
+cot30,pole_types,PC_I_20_230_24,1000,2000,0,1,POLE,"{
+  ""foundations"": ""mong_MT2-18A"",
+  ""crossarms"": [
+  ""tang0/xa_X2KD_3NK"",
+  ""tang1/xa_X2L_3D_T1"",
+  ""tang2/xa_X2L_3Đ_T2"",
+  ""tang3/xa_X2L_3Đ_T3"",
+  ""tang3/xa_gan_ghe_thao_tac*2""
+ ],
+  ""accessories"": 
+    ""ghe_thao_tac_CD*2"", ""stairs"":  ""thang_treo"",
+  ""switch"": ""CDPT_35kV*2"",
+  ""lightning_arrestors"": ""CSV_1_*2"",
+  ""insulators"": {
+    ""su_neo_kep_35kV"":1,
+    ""su_neo_don_35kV"":3
+  }
+}"

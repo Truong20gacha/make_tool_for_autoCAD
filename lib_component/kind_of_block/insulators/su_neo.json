@@ -1,0 +1,34 @@
+{
+  "BLOCK_NAME": "su_neo",
+  "LAYERS": {
+    "0": {
+      "color": 7
+    }
+  },
+  "entities": [
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ELLIPSE"
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ELLIPSE"
+    }
+  ]
+}

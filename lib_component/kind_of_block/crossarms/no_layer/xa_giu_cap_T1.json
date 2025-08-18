@@ -1,0 +1,289 @@
+{
+  "BLOCK_NAME": "xa_giu_cap_T1",
+  "LAYERS": {
+    "DANTRAM": {
+      "color": 7
+    },
+    "DUONGTAM": {
+      "color": 8
+    },
+    "0": {
+      "color": 7
+    }
+  },
+  "entities": [
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "pointsd": [
+        41750.226973,
+        18191.634071,
+        41741.226973,
+        18191.634071
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "pointsd": [
+        41732.226973,
+        18191.634071,
+        41741.226973,
+        18191.634071
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "pointsd": [
+        41732.226973,
+        18213.634071,
+        41741.226973,
+        18213.634071
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "pointsd": [
+        41750.226973,
+        18213.634071,
+        41741.226973,
+        18213.634071
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "pointsd": [
+        42076.289448,
+        18191.634071,
+        42085.289448,
+        18191.634071
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "pointsd": [
+        42094.289448,
+        18191.634071,
+        42085.289448,
+        18191.634071
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "pointsd": [
+        42094.289448,
+        18213.634071,
+        42085.289448,
+        18213.634071
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "pointsd": [
+        42076.289448,
+        18213.634071,
+        42085.289448,
+        18213.634071
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM",
+        "color": 8
+      },
+      "pointsd": [
+        42117.286184,
+        18222.634071,
+        41692.535962,
+        18222.634071
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "pointsd": [
+        42117.286184,
+        18227.634071,
+        41692.535962,
+        18227.634071
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DUONGTAM"
+      },
+      "pointsd": [
+        42117.286184,
+        18202.634071,
+        41692.535962,
+        18202.634071
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "pointsd": [
+        42117.286184,
+        18177.634071,
+        41692.535962,
+        18177.634071
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DANTRAM"
+      },
+      "pointsd": [
+        41692.535962,
+        18177.634071,
+        41692.535962,
+        18227.634071
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DUONGTAM"
+      },
+      "pointsd": [
+        41741.226973,
+        18177.634071,
+        41741.226973,
+        18227.634071
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DUONGTAM"
+      },
+      "pointsd": [
+        41741.226973,
+        18177.634071,
+        41741.226973,
+        18227.634071
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DUONGTAM"
+      },
+      "pointsd": [
+        42085.289448,
+        18177.634071,
+        42085.289448,
+        18227.634071
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "DUONGTAM"
+      },
+      "pointsd": [
+        42085.289448,
+        18177.634071,
+        42085.289448,
+        18227.634071
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0"
+      },
+      "pointsd": [
+        42117.286184,
+        18177.634071,
+        42117.286184,
+        18227.634071
+      ]
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "BLOCK_NAME": "thang_treo",
+  "LAYERS": {
+    "0": {
+      "color": 7
+    }
+  },
+  "entities": [
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        121.604484,
+        1092.549971,
+        121.724634,
+        1110.549971
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        121.604484,
+        1092.549971,
+        58.604484,
+        1092.970496
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        105.123909,
+        -1376.450029,
+        42.123909,
+        -1376.029504
+      ]
+    },
+    {
+      "type": "HATCH",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "HATCH"
+    },
+    {
+      "type": "CIRCLE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "CIRCLE"
+    },
+    {
+      "type": "HATCH",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "HATCH"
+    },
+    {
+      "type": "CIRCLE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "CIRCLE"
+    },
+    {
+      "type": "HATCH",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "HATCH"
+    },
+    {
+      "type": "CIRCLE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "CIRCLE"
+    },
+    {
+      "type": "HATCH",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "HATCH"
+    },
+    {
+      "type": "CIRCLE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "CIRCLE"
+    },
+    {
+      "type": "HATCH",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "HATCH"
+    },
+    {
+      "type": "CIRCLE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "CIRCLE"
+    },
+    {
+      "type": "HATCH",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "HATCH"
+    },
+    {
+      "type": "CIRCLE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "CIRCLE"
+    },
+    {
+      "type": "HATCH",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "HATCH"
+    },
+    {
+      "type": "CIRCLE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "CIRCLE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        105.244059,
+        -1358.450029,
+        35.244059,
+        -1357.982779
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        3.517734,
+        -1316.769179,
+        19.330809,
+        1052.230821
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        51.604484,
+        1093.017221,
+        121.604484,
+        1092.549971
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        105.123909,
+        -1376.450029,
+        35.123909,
+        -1375.982779
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -14.482266,
+        -1316.649029,
+        1.330809,
+        1052.350971
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        51.724634,
+        1111.017221,
+        121.724634,
+        1110.549971
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        105.123909,
+        -1376.450029,
+        105.244059,
+        -1358.450029
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        104.703384,
+        -1439.450029,
+        105.123909,
+        -1376.450029
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        105.123909,
+        -1376.450029,
+        42.123909,
+        -1376.029504
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        42.123909,
+        -1376.029504,
+        42.123909,
+        -1376.029504
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        48.083859,
+        -1382.069554,
+        99.083859,
+        -1382.409979
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        99.083859,
+        -1382.409979,
+        98.743434,
+        -1433.409979
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        104.703384,
+        -1439.450029,
+        104.703384,
+        -1439.450029
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        121.724634,
+        1110.549971,
+        121.604484,
+        1092.549971
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        121.183959,
+        1029.549971,
+        121.604484,
+        1092.549971
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        121.604484,
+        1092.549971,
+        58.604484,
+        1092.970496
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        58.604484,
+        1092.970496,
+        58.604484,
+        1092.970496
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        64.564434,
+        1086.930446,
+        115.564434,
+        1086.590021
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        115.564434,
+        1086.590021,
+        115.224009,
+        1035.590021
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        121.183959,
+        1029.549971,
+        121.183959,
+        1029.549971
+      ]
+    }
+  ]
+}

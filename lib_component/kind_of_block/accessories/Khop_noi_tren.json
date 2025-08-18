@@ -1,0 +1,201 @@
+{
+  "BLOCK_NAME": "Khop noi tren",
+  "LAYERS": {
+    "0": {
+      "color": 7
+    }
+  },
+  "entities": [
+    {
+      "type": "HATCH",
+      "attribs": {
+        "layer": "0"
+      },
+      "raw_code": "HATCH"
+    },
+    {
+      "type": "LWPOLYLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "LWPOLYLINE"
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -22.5,
+        -8.0,
+        -6.987847,
+        7.15332
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        22.5,
+        -8.0,
+        6.987847,
+        7.15332
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        0.0,
+        10.0,
+        0.0,
+        -75.0
+      ]
+    },
+    {
+      "type": "CIRCLE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "CIRCLE"
+    },
+    {
+      "type": "LWPOLYLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "LWPOLYLINE"
+    },
+    {
+      "type": "LWPOLYLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "LWPOLYLINE"
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -18.5,
+        -33.0,
+        -33.546846,
+        -45.553583
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -18.5,
+        -75.0,
+        -33.546846,
+        -62.446417
+      ]
+    },
+    {
+      "type": "LWPOLYLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "LWPOLYLINE"
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        18.5,
+        -33.0,
+        33.546846,
+        -45.553583
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        18.5,
+        -75.0,
+        33.546846,
+        -62.446417
+      ]
+    },
+    {
+      "type": "LWPOLYLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "LWPOLYLINE"
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        -37.5,
+        -54.0,
+        37.5,
+        -54.0
+      ]
+    }
+  ]
+}

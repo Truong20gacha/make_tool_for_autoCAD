@@ -1,0 +1,824 @@
+{
+  "BLOCK_NAME": "xa_X2KD_3NK",
+  "LAYERS": {
+    "BAO": {
+      "color": 7
+    },
+    "0": {
+      "color": 7
+    },
+    "TIM": {
+      "color": 6
+    }
+  },
+  "entities": [
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        -1247.888636,
+        -36.516677,
+        1252.111364,
+        -36.516677
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -1247.888636,
+        28.963342,
+        1252.111364,
+        28.963342
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        -1247.888636,
+        0.983323,
+        1252.111364,
+        0.983323
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "TIM",
+        "color": 8
+      },
+      "pointsd": [
+        -147.624894,
+        -470.456733,
+        -147.624894,
+        -527.576621
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        -215.62476,
+        -499.016677,
+        219.847487,
+        -499.016677
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        -215.62476,
+        -467.516677,
+        -215.62476,
+        -530.516677
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        -215.62476,
+        -467.516677,
+        219.847487,
+        -467.516677
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -44.595619,
+        -530.516677,
+        -44.595619,
+        -467.516677
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -113.835379,
+        -530.516677,
+        -113.835379,
+        -467.516677
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -79.215499,
+        -530.516677,
+        -79.215499,
+        -467.516677
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        -1247.888636,
+        38.483323,
+        -1247.888636,
+        -36.516677
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -219.32325,
+        -472.241653,
+        -847.888636,
+        28.963342
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        -235.041835,
+        -492.322805,
+        -891.946009,
+        28.963342
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        -254.45891,
+        -517.128934,
+        -215.62476,
+        -530.516677
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        -215.62476,
+        -467.516677,
+        -254.45891,
+        -517.128934
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        -215.62476,
+        -467.516677,
+        -838.286881,
+        28.963342
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -215.62476,
+        -473.516677,
+        219.847487,
+        -473.516677
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        -254.45891,
+        -517.128934,
+        -939.105339,
+        28.963342
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        -215.62476,
+        -530.516677,
+        219.847487,
+        -530.516677
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        219.847487,
+        -467.516677,
+        219.847487,
+        -530.516677
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        223.545977,
+        -472.241653,
+        852.111364,
+        28.963342
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        239.264562,
+        -492.322805,
+        896.168736,
+        28.963342
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        258.681637,
+        -517.128934,
+        219.847487,
+        -530.516677
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        219.847487,
+        -467.516677,
+        258.681637,
+        -517.128934
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        219.847487,
+        -467.516677,
+        842.509608,
+        28.963342
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        258.681637,
+        -517.128934,
+        943.328066,
+        28.963342
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        1252.111364,
+        38.483323,
+        1252.111364,
+        -36.516677
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "TIM",
+        "color": 8
+      },
+      "pointsd": [
+        151.847621,
+        -470.456733,
+        151.847621,
+        -527.576621
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        48.818346,
+        -530.516677,
+        48.818346,
+        -467.516677
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        118.058106,
+        -530.516677,
+        118.058106,
+        -467.516677
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        83.438226,
+        -530.516677,
+        83.438226,
+        -467.516677
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "TIM",
+        "color": 8
+      },
+      "pointsd": [
+        -147.624894,
+        28.963342,
+        -147.624894,
+        -27.576621
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -44.595619,
+        -36.516677,
+        -44.595619,
+        28.963342
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -113.835379,
+        -36.516677,
+        -113.835379,
+        28.963342
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -79.215499,
+        -36.516677,
+        -79.215499,
+        28.963342
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "TIM",
+        "color": 8
+      },
+      "pointsd": [
+        151.847621,
+        29.543267,
+        151.847621,
+        -27.576621
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        48.818346,
+        -36.516677,
+        48.818346,
+        28.963342
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        118.058106,
+        -36.516677,
+        118.058106,
+        28.963342
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        83.438226,
+        -36.516677,
+        83.438226,
+        28.963342
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        1252.111364,
+        38.483323,
+        -1247.888636,
+        38.483323
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        -174.82484,
+        -499.016677,
+        -174.82484,
+        -499.016677
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        -159.86487,
+        -484.056706,
+        -135.384918,
+        -484.056706
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        -120.424948,
+        -499.016677,
+        -120.424948,
+        -499.016677
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        -135.384918,
+        -513.976647,
+        -159.86487,
+        -513.976647
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        179.047568,
+        -499.016677,
+        179.047568,
+        -499.016677
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        164.087597,
+        -484.056706,
+        139.607645,
+        -484.056706
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        124.647675,
+        -499.016677,
+        124.647675,
+        -499.016677
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        139.607645,
+        -513.976647,
+        164.087597,
+        -513.976647
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        -174.82484,
+        0.983323,
+        -174.82484,
+        0.983323
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        -159.86487,
+        15.943294,
+        -135.384918,
+        15.943294
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        -120.424948,
+        0.983323,
+        -120.424948,
+        0.983323
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        -135.384918,
+        -13.976647,
+        -159.86487,
+        -13.976647
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        179.047568,
+        0.983323,
+        179.047568,
+        0.983323
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        164.087597,
+        15.943294,
+        139.607645,
+        15.943294
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        124.647675,
+        0.983323,
+        124.647675,
+        0.983323
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO"
+      },
+      "pointsd": [
+        139.607645,
+        -13.976647,
+        164.087597,
+        -13.976647
+      ]
+    }
+  ]
+}

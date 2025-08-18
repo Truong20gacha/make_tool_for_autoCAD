@@ -1,0 +1,1200 @@
+{
+  "BLOCK_NAME": "Khop trung gian",
+  "LAYERS": {
+    "0": {
+      "color": 7
+    },
+    "dt": {
+      "color": 6
+    },
+    "nm": {
+      "color": 5
+    },
+    "nd": {
+      "color": 1
+    }
+  },
+  "entities": [
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -18.144,
+        31.20768,
+        -18.144,
+        -5.08032
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        18.144,
+        -5.08032,
+        18.144,
+        13.140162
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "dt",
+        "color": 2
+      },
+      "pointsd": [
+        -29.92068,
+        3.6288,
+        37.10521,
+        3.6288
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        21.7728,
+        14.5152,
+        21.7728,
+        -20.32128
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -21.7728,
+        14.5152,
+        -21.7728,
+        -20.32128
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -21.7728,
+        14.5152,
+        -26.12736,
+        14.5152
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -26.12736,
+        14.5152,
+        -26.12736,
+        -20.32128
+      ]
+    },
+    {
+      "type": "HATCH",
+      "attribs": {
+        "layer": "0",
+        "color": 7
+      },
+      "raw_code": "HATCH"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -17.41824,
+        -29.0304,
+        17.41824,
+        -29.0304
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        21.7728,
+        14.5152,
+        26.12736,
+        14.5152
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        26.12736,
+        14.5152,
+        26.12736,
+        -20.32128
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -17.41824,
+        -24.67584,
+        17.41824,
+        -24.67584
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LWPOLYLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "LWPOLYLINE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -2.561506,
+        -62.650165,
+        -2.561506,
+        -37.035106
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -2.561506,
+        -37.035106,
+        -17.05536,
+        -37.035106
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -2.561506,
+        -62.650165,
+        -17.05536,
+        -62.650165
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        17.05536,
+        -29.0304,
+        17.05536,
+        -72.576
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        6.916066,
+        -29.0304,
+        6.916066,
+        -72.576
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -17.05536,
+        -37.035106,
+        -17.05536,
+        -62.650165
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -6.916066,
+        -37.035106,
+        -6.916066,
+        -62.650165
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -6.916066,
+        -56.737355,
+        -14.173666,
+        -56.737355
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -14.173666,
+        -42.947915,
+        -6.916066,
+        -42.947915
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -6.916066,
+        -49.842635,
+        -13.447906,
+        -49.842635
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -14.173666,
+        -42.947915,
+        -14.173666,
+        -56.737355
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -2.561506,
+        -45.488075,
+        2.561506,
+        -45.488075
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        6.916066,
+        -45.488075,
+        13.59604,
+        -45.488075
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        14.3218,
+        -46.213835,
+        14.3218,
+        -53.471435
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        13.59604,
+        -45.488075,
+        14.3218,
+        -46.213835
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        13.59604,
+        -54.197195,
+        6.916066,
+        -54.197195
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        14.3218,
+        -53.471435,
+        13.59604,
+        -54.197195
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        2.561506,
+        -54.197195,
+        -2.561506,
+        -54.197195
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "nm",
+        "color": 2
+      },
+      "pointsd": [
+        14.3218,
+        -46.213835,
+        6.916066,
+        -46.213835
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "nm",
+        "color": 2
+      },
+      "pointsd": [
+        2.561506,
+        -46.213835,
+        -2.561506,
+        -46.213835
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "nm",
+        "color": 2
+      },
+      "pointsd": [
+        14.3218,
+        -53.471435,
+        6.916066,
+        -53.471435
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "nm",
+        "color": 2
+      },
+      "pointsd": [
+        2.561506,
+        -53.471435,
+        -2.561506,
+        -53.471435
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        13.59604,
+        -45.488075,
+        13.59604,
+        -54.197195
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        26.12736,
+        -3.6288,
+        21.7728,
+        -3.6288
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -21.7728,
+        -3.6288,
+        -26.12736,
+        -3.6288
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -20.994409,
+        -56.737355,
+        -28.252009,
+        -56.737355
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -28.252009,
+        -42.947915,
+        -20.994409,
+        -42.947915
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -28.252009,
+        -42.947915,
+        -28.252009,
+        -56.737355
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -20.994409,
+        -42.947915,
+        -20.994409,
+        -56.737355
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -20.994409,
+        -45.488075,
+        -17.05536,
+        -45.488075
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -17.05536,
+        -54.197195,
+        -20.994409,
+        -54.197195
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "nm",
+        "color": 2
+      },
+      "pointsd": [
+        -17.05536,
+        -46.213835,
+        -20.994409,
+        -46.213835
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "nm",
+        "color": 2
+      },
+      "pointsd": [
+        -17.05536,
+        -53.471435,
+        -20.994409,
+        -53.471435
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        35.56224,
+        6.53184,
+        35.56224,
+        0.72576
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -28.30464,
+        8.70912,
+        -28.30464,
+        -1.45152
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -28.30464,
+        -1.45152,
+        -26.12736,
+        -1.45152
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -28.30464,
+        8.70912,
+        -26.12736,
+        8.70912
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        34.83648,
+        0.0,
+        26.12736,
+        0.0
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        35.56224,
+        0.72576,
+        34.83648,
+        0.0
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        21.7728,
+        0.0,
+        18.144,
+        0.0
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -18.144,
+        0.0,
+        -21.7728,
+        0.0
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        34.83648,
+        7.2576,
+        26.12736,
+        7.2576
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        35.56224,
+        6.53184,
+        34.83648,
+        7.2576
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        21.7728,
+        7.2576,
+        18.144,
+        7.2576
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -18.144,
+        7.2576,
+        -21.7728,
+        7.2576
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "nd",
+        "color": 2
+      },
+      "pointsd": [
+        -21.7728,
+        0.0,
+        -26.12736,
+        0.0
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "nd",
+        "color": 2
+      },
+      "pointsd": [
+        -21.7728,
+        7.2576,
+        -26.12736,
+        7.2576
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "nd",
+        "color": 2
+      },
+      "pointsd": [
+        26.12736,
+        0.0,
+        21.7728,
+        0.0
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "nd",
+        "color": 2
+      },
+      "pointsd": [
+        26.12736,
+        7.2576,
+        21.7728,
+        7.2576
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        34.83648,
+        7.2576,
+        34.83648,
+        0.0
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        33.02208,
+        7.2576,
+        33.02208,
+        9.434977
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        30.8448,
+        6.484938,
+        30.8448,
+        1.027355
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        33.02208,
+        -3.266193,
+        33.02208,
+        0.0
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        30.8448,
+        6.484938,
+        33.02208,
+        6.484938
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        30.8448,
+        1.027355,
+        33.02208,
+        1.027355
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        33.02208,
+        1.027355,
+        33.02208,
+        6.484938
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        33.02208,
+        9.434977,
+        30.8448,
+        9.434977
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        33.02208,
+        -3.266193,
+        30.8448,
+        -3.266193
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        30.8448,
+        9.434977,
+        30.8448,
+        7.2576
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        30.8448,
+        -3.266193,
+        30.8448,
+        0.0
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "nd",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "nd",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -18.144,
+        31.20768,
+        -11.108494,
+        31.20768
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -18.144,
+        -5.08032,
+        -18.144,
+        -10.908311
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -18.144,
+        -10.908311,
+        18.144,
+        -10.908311
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        18.144,
+        -5.08032,
+        18.144,
+        -10.908311
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        18.144,
+        13.140162,
+        18.144,
+        31.20768
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -11.108494,
+        31.20768,
+        18.144,
+        31.20768
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        15.552618,
+        31.20768,
+        15.552618,
+        -10.908311
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -15.950478,
+        31.20768,
+        -15.950478,
+        -10.908311
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -18.144,
+        0.0,
+        18.144,
+        0.0
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -18.144,
+        7.2576,
+        18.144,
+        7.2576
+      ]
+    }
+  ]
+}

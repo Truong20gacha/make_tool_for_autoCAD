@@ -1,0 +1,365 @@
+{
+  "BLOCK_NAME": "Khop noi tay TD tren",
+  "LAYERS": {
+    "0": {
+      "color": 7
+    },
+    "AUDIT_I_210309085331-1": {
+      "color": 6
+    }
+  },
+  "entities": [
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "SPLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "SPLINE"
+    },
+    {
+      "type": "SPLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "SPLINE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        21.263421,
+        13.179373,
+        21.973725,
+        16.237215
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        22.150343,
+        12.773341,
+        22.788533,
+        16.237215
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        24.020045,
+        12.783772,
+        23.33502,
+        16.237215
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "AUDIT_I_210309085331-1",
+        "color": 8
+      },
+      "pointsd": [
+        23.221142,
+        22.237215,
+        23.221142,
+        30.237215
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "AUDIT_I_210309085331-1",
+        "color": 7
+      },
+      "pointsd": [
+        23.221142,
+        30.237215,
+        24.0,
+        30.237215
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "AUDIT_I_210309085331-1",
+        "color": 8
+      },
+      "pointsd": [
+        24.0,
+        30.237215,
+        24.0,
+        22.237215
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "AUDIT_I_210309085331-1",
+        "color": 8
+      },
+      "pointsd": [
+        18.834918,
+        25.616071,
+        18.986199,
+        24.657957
+      ]
+    },
+    {
+      "type": "CIRCLE",
+      "attribs": {
+        "layer": "0",
+        "color": 7
+      },
+      "raw_code": "CIRCLE"
+    },
+    {
+      "type": "CIRCLE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "CIRCLE"
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "ARC"
+    },
+    {
+      "type": "SPLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "SPLINE"
+    },
+    {
+      "type": "SPLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "SPLINE"
+    },
+    {
+      "type": "SPLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "SPLINE"
+    },
+    {
+      "type": "SPLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "SPLINE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        -1.868208,
+        -5.911958,
+        -1.093424,
+        -3.460147
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        -0.97092,
+        -6.294535,
+        -0.344481,
+        -3.584423
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        0.897862,
+        -6.234959,
+        0.09539,
+        -3.627546
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "AUDIT_I_210309085331-1",
+        "color": 8
+      },
+      "pointsd": [
+        -8.270327,
+        -0.719611,
+        -7.331047,
+        -0.808631
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "AUDIT_I_210309085331-1",
+        "color": 8
+      },
+      "pointsd": [
+        5.57274,
+        4.133449,
+        6.351635,
+        4.665889
+      ]
+    },
+    {
+      "type": "LWPOLYLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "LWPOLYLINE"
+    },
+    {
+      "type": "LWPOLYLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "LWPOLYLINE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        -17.0,
+        19.237215,
+        27.0,
+        19.237215
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        -17.0,
+        22.237215,
+        27.0,
+        22.237215
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        -17.0,
+        16.237215,
+        27.0,
+        16.237215
+      ]
+    },
+    {
+      "type": "LWPOLYLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "LWPOLYLINE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        27.0,
+        16.237215,
+        27.0,
+        22.237215
+      ]
+    },
+    {
+      "type": "LWPOLYLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "LWPOLYLINE"
+    }
+  ]
+}

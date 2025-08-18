@@ -1,0 +1,75 @@
+{
+  "BLOCK_NAME": "he_thong_truyen_dong_cau_dao",
+  "LAYERS": {
+    "0": {
+      "color": 7
+    }
+  },
+  "entities": [
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        25.624869,
+        -26.294861,
+        -20.375131,
+        -26.294861
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -20.375131,
+        -26.294861,
+        -20.375131,
+        5002.169723
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -20.375131,
+        5002.169723,
+        25.624869,
+        5002.169723
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        25.624869,
+        5002.169723,
+        25.624869,
+        -26.294861
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        22.624869,
+        -26.294861,
+        22.624869,
+        5002.169723
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "BLOCK_NAME": "xa do CDLD(2)",
+  "LAYERS": {
+    "0": {
+      "color": 7
+    }
+  },
+  "entities": [
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        -20.0,
+        0.0,
+        20.0,
+        0.0
+      ]
+    },
+    {
+      "type": "HATCH",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "HATCH"
+    },
+    {
+      "type": "LWPOLYLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "LWPOLYLINE"
+    },
+    {
+      "type": "LWPOLYLINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "raw_code": "LWPOLYLINE"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -24.0,
+        0.115372,
+        -24.0,
+        5.415372
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -24.0,
+        94.815372,
+        -24.0,
+        100.115372
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        -9.0,
+        0.115372,
+        -9.0,
+        5.415372
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        9.0,
+        0.115372,
+        9.0,
+        5.415372
+      ]
+    },
+    {
+      "type": "HATCH",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "raw_code": "HATCH"
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        -9.0,
+        100.115372,
+        -9.0,
+        94.815372
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        9.0,
+        100.115372,
+        9.0,
+        94.815372
+      ]
+    }
+  ]
+}
