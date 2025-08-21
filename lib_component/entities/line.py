@@ -12,9 +12,9 @@ class Line(Entity):
         msp.add_line((x1, y1), (x2, y2), dxfattribs=self.attribs)
 
     def transform(self, matrix):
-        p1 = matrix @ [self.points[0], self.points[1], 1.0]
-        p2 = matrix @ [self.points[2], self.points[3], 1.0]
-        self.points = [p1[0], p1[1], p2[0], p2[1]]
+        p1 = matrix @ np.array([self.points[0], self.points[1], 1.0])
+        p2 = matrix @ np.array([self.points[2], self.points[3], 1.0])
+        self.points = np.array([p1[0], p1[1], p2[0], p2[1]])
 
     def bounds(self):
         x1, y1, x2, y2 = self.points

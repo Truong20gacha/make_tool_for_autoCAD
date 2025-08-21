@@ -18,7 +18,8 @@ class DrawingObject:
         if not self.entities:
             return (0, 0, 0, 0)
         bboxes = [ent.bounds() for ent in self.entities]
-        return (min(b[0] for b in bboxes),
-                min(b[1] for b in bboxes),
-                max(b[2] for b in bboxes),
-                max(b[3] for b in bboxes))
+        xmin = min(b[0] for b in bboxes)
+        ymin = min(b[1] for b in bboxes)
+        xmax = max(b[2] for b in bboxes)
+        ymax = max(b[3] for b in bboxes)
+        return (xmin, ymin, xmax, ymax)

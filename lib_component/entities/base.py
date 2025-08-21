@@ -1,14 +1,9 @@
-from abc import ABC, abstractmethod
-
-class Entity(ABC):
-    @abstractmethod
+class Entity:
     def draw(self, msp):
-        pass
+        raise NotImplementedError
 
-    @abstractmethod
     def transform(self, matrix):
-        pass
+        raise NotImplementedError
 
-    @abstractmethod
     def bounds(self):
-        pass
+        raise NotImplementedError

@@ -1,5 +1,4 @@
-import numpy as np
-import math
+import numpy as np, math
 
 def translation(tx, ty):
     return np.array([[1, 0, tx],
