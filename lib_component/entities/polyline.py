@@ -13,7 +13,7 @@ class Polyline(Entity):
                            dxfattribs=self.attribs,
                            close=self.closed)
 
-    def transform(self, matrix):
+    def transform(self, matrix: np.ndarray):
         new_pts = []
         for (x, y) in self.points:
             p = matrix @ np.array([x, y, 1.0])

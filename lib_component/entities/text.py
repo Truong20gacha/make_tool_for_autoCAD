@@ -16,7 +16,7 @@ class Text(Entity):
             **self.attribs
         })
 
-    def transform(self, matrix):
+    def transform(self, matrix: np.ndarray):
         p = matrix @ np.array([self.insert[0], self.insert[1], 1.0])
         self.insert = np.array([p[0], p[1]])
         sx = np.linalg.norm(matrix @ np.array([1, 0, 0]) - matrix @ np.array([0, 0, 0]))

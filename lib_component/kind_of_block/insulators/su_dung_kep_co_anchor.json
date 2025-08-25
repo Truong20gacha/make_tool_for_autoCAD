@@ -1,0 +1,235 @@
+{
+  "BLOCK_NAME": "su_dung_kep",
+  "LAYERS": {
+    "Tim": {
+      "color": 6
+    },
+    "0": {
+      "color": 7
+    },
+    "tex": {
+      "color": 4
+    },
+    "B": {
+      "color": 1
+    }
+  },
+  "entities": [
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "Tim",
+        "color": 8
+      },
+      "pointsd": [
+        0.776537,
+        28.320139,
+        0.776537,
+        -26.079754
+      ]
+    },
+    {
+      "type": "CIRCLE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "center": [
+        112.888463,
+        1.120192
+      ],
+      "radius": 42.37567093204112
+    },
+    {
+      "type": "CIRCLE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "center": [
+        112.888463,
+        1.120192
+      ],
+      "radius": 79.71615000000742
+    },
+    {
+      "type": "CIRCLE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "center": [
+        112.888463,
+        1.120192
+      ],
+      "radius": 112.4185817171906
+    },
+    {
+      "type": "CIRCLE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "center": [
+        -111.9487,
+        1.120192
+      ],
+      "radius": 42.37567093204112
+    },
+    {
+      "type": "CIRCLE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "center": [
+        -111.9487,
+        1.120192
+      ],
+      "radius": 79.71615000000742
+    },
+    {
+      "type": "CIRCLE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "center": [
+        -111.9487,
+        1.120192
+      ],
+      "radius": 112.4185817171906
+    },
+    {
+      "type": "ANCHOR",
+      "attribs": {
+        "layer": "0"
+      },
+      "tag": "ANCHOR",
+      "insert": [
+        0.267846,
+        0.716206
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "tex"
+      },
+      "pointsd": [
+        -11.463439,
+        -5.679794,
+        13.016513,
+        -5.679794
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "tex"
+      },
+      "pointsd": [
+        -11.463439,
+        7.920179,
+        13.016513,
+        7.920179
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "B"
+      },
+      "pointsd": [
+        34.77647,
+        1.120192,
+        -33.223396,
+        1.120192
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "B"
+      },
+      "pointsd": [
+        -33.223396,
+        1.120192,
+        -33.223396,
+        14.720166
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "B"
+      },
+      "pointsd": [
+        -33.223396,
+        14.720166,
+        34.77647,
+        14.720166
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "B"
+      },
+      "pointsd": [
+        34.77647,
+        14.720166,
+        34.77647,
+        1.120192
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "B"
+      },
+      "pointsd": [
+        55.17643,
+        -12.479781,
+        -53.623356,
+        -12.479781
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "B"
+      },
+      "pointsd": [
+        -53.623356,
+        -12.479781,
+        -53.623356,
+        1.120192
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "B"
+      },
+      "pointsd": [
+        -53.623356,
+        1.120192,
+        55.17643,
+        1.120192
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "B"
+      },
+      "pointsd": [
+        55.17643,
+        1.120192,
+        55.17643,
+        -12.479781
+      ]
+    }
+  ]
+}

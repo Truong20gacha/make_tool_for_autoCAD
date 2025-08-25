@@ -1,0 +1,222 @@
+{
+  "BLOCK_NAME": "su_neo_kem_kep_neo",
+  "LAYERS": {
+    "TEX": {
+      "color": 7
+    },
+    "TIM": {
+      "color": 6
+    },
+    "B": {
+      "color": 1
+    },
+    "0": {
+      "color": 7
+    }
+  },
+  "entities": [
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "TEX"
+      },
+      "pointsd": [
+        12.514882,
+        -8.302429,
+        -11.965069,
+        -8.302429
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "TIM"
+      },
+      "pointsd": [
+        0.274907,
+        14.137527,
+        0.274907,
+        -26.662393
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "TEX"
+      },
+      "pointsd": [
+        -11.965069,
+        -6.262433,
+        12.514882,
+        -6.262433
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "TIM"
+      },
+      "pointsd": [
+        0.274907,
+        27.7375,
+        0.274907,
+        -13.06242
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "TEX"
+      },
+      "pointsd": [
+        -11.965069,
+        7.33754,
+        12.514882,
+        7.33754
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "B"
+      },
+      "pointsd": [
+        34.27484,
+        0.537553,
+        -33.725026,
+        0.537553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "B"
+      },
+      "pointsd": [
+        -33.725026,
+        0.537553,
+        -33.725026,
+        14.137527
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "B"
+      },
+      "pointsd": [
+        -33.725026,
+        14.137527,
+        34.27484,
+        14.137527
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "B"
+      },
+      "pointsd": [
+        34.27484,
+        14.137527,
+        34.27484,
+        0.537553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "B"
+      },
+      "pointsd": [
+        54.674799,
+        -13.06242,
+        -54.124986,
+        -13.06242
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "B"
+      },
+      "pointsd": [
+        -54.124986,
+        -13.06242,
+        -54.124986,
+        0.537553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "B"
+      },
+      "pointsd": [
+        -54.124986,
+        0.537553,
+        54.674799,
+        0.537553
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "B"
+      },
+      "pointsd": [
+        54.674799,
+        0.537553,
+        54.674799,
+        -13.06242
+      ]
+    },
+    {
+      "type": "CIRCLE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "center": [
+        0.274907,
+        10.057535
+      ],
+      "radius": 42.37567093204112
+    },
+    {
+      "type": "CIRCLE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "center": [
+        0.274907,
+        10.057535
+      ],
+      "radius": 79.71615000000742
+    },
+    {
+      "type": "CIRCLE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "center": [
+        0.274907,
+        10.057535
+      ],
+      "radius": 112.4185817171906
+    },
+    {
+      "type": "ANCHOR",
+      "attribs": {
+        "layer": "0"
+      },
+      "tag": "ANCHOR",
+      "insert": [
+        0.515117,
+        0.294796
+      ]
+    }
+  ]
+}

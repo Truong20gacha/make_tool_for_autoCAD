@@ -20,7 +20,7 @@ class Ellipse(Entity):
                         end_param=self.end_param,
                         dxfattribs=self.attribs)
 
-    def transform(self, matrix):
+    def transform(self, matrix: np.ndarray):
         c = matrix @ np.array([self.center[0], self.center[1], 1.0])
         self.center = np.array([c[0], c[1]])
         ax = matrix @ np.array([self.major_axis[0], self.major_axis[1], 0.0])

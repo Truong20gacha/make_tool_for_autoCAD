@@ -4,14 +4,17 @@ import numpy as np
 from .json_loader import load_from_json
 from .block_utils import parse_height_from_name, register_block_from_object
 from ..transforms.matrix import rotation, scaling, translation
+from ..entities.anchor import Anchor
 
 def load_from_excel(excel_path, base_dir, doc, msp):
     df = pd.read_excel(excel_path)
     parents = {}
     current_parent = None
     pole_x, pole_y, pole_height = None, None, None
+    block_con_dict = {}
 
     for _, row in df.iterrows():
+        # --- STT ---
         stt_raw = row["STT"]
         if pd.isna(stt_raw):
             stt = ""
@@ -32,18 +35,20 @@ def load_from_excel(excel_path, base_dir, doc, msp):
 
         obj = load_from_json(json_path)
 
+        # --- rotation ---
         rot = float(row["rotation_deg"]) if not pd.isna(row.get("rotation_deg")) else 0.0
         if rot != 0:
             obj.transform(rotation(rot))
 
-        # --- CHA ---
-        if "." not in stt:
+        # ---------------- CHA ----------------
+        if "." not in stt:   # Gặp số nguyên, đổi CHA
             current_parent = stt
-            parents[stt] = note_name
+            parents[current_parent] = note_name
 
             pole_x = float(row["x( coordinates for pole and location extra block )"]) * 1000 if not pd.isna(row["x( coordinates for pole and location extra block )"]) else 0.0
             pole_y = float(row["y ( coordinates for pole and location for extra block )"]) * 1000 if not pd.isna(row["y ( coordinates for pole and location for extra block )"]) else 0.0
 
+            # scale theo chiều cao cột (giữ nguyên code cũ)
             pole_height = parse_height_from_name(name)
             if pole_height:
                 xmin, ymin, xmax, ymax = obj.bounds()
@@ -52,20 +57,34 @@ def load_from_excel(excel_path, base_dir, doc, msp):
                     scale_factor = pole_height / H
                     obj.transform(scaling(scale_factor))
 
-            xmin, ymin, xmax, ymax = obj.bounds()
-            W = xmax - xmin
-            H = ymax - ymin
-            tx = pole_x - (xmin + W / 2)
-            ty = pole_y - ymin
-            obj.transform(translation(tx, ty))
+            # --- align block dựa trên anchor (nếu có) ---
+            anchor_entity = None
+            for ent in obj.entities:
+                if isinstance(ent, Anchor):
+                    anchor_entity = ent
+                    break
+
+            if anchor_entity is not None:
+                ax, ay = anchor_entity.insert
+                tx = pole_x - ax
+                ty = pole_y - ay
+                obj.transform(translation(tx, ty))
+                print(f"ℹ️ Đặt block CHA align theo anchor ({ax}, {ay}) về ({pole_x}, {pole_y})")
+            else:
+                xmin, ymin, xmax, ymax = obj.bounds()
+                W = xmax - xmin
+                H = ymax - ymin
+                tx = pole_x - (xmin + W / 2)
+                ty = pole_y - ymin
+                obj.transform(translation(tx, ty))
 
             register_block_from_object(doc, note_name, obj)
             msp.add_blockref(note_name, (0, 0), dxfattribs={"layer": layer_name})
             print(f"✅ Chèn block CHA {note_name} (STT={stt}) tại ({pole_x},{pole_y}), H={pole_height}mm, layer={layer_name}")
 
-        # --- CON ---
+        # ---------------- CON ----------------
         else:
-            parent_key = stt.split(".")[0]
+            parent_key = current_parent
             if parent_key in parents and pole_x is not None and pole_y is not None:
                 at_val = float(row["y ( coordinates for pole and location for extra block )"]) * 1000 if not pd.isna(row["y ( coordinates for pole and location for extra block )"]) else 0.0
 
@@ -92,10 +111,18 @@ def load_from_excel(excel_path, base_dir, doc, msp):
 
                 register_block_from_object(doc, note_name, obj)
 
+                # Lưu thông tin block CON vào dict cho mapping anchor
+                id_manh = stt
                 for lech_x in x_offsets:
+                    # (id_manh, x, y, note_name) -> obj
+                    block_con_dict[(id_manh, lech_x, at_val, note_name)] = obj
+
                     tx = pole_x + lech_x
                     ty = pole_y + at_val
                     msp.add_blockref(note_name, (tx, ty), dxfattribs={"layer": layer_name})
                     print(f"   ➕ Gắn block CON {note_name} (STT={stt}) vào CHA {parent_key} tại ({tx},{ty}), AT={at_val}, X={lech_x}, layer={layer_name}")
             else:
                 print(f"⚠️ Block {name} (STT={stt}) không có CHA hợp lệ!")
+
+    # TRẢ RA dict để build anchor mapping
+    return block_con_dict

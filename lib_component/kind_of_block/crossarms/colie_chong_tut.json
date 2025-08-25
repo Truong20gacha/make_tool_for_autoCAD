@@ -1,0 +1,258 @@
+{
+  "BLOCK_NAME": "colie_chong_tut",
+  "LAYERS": {
+    "0": {
+      "color": 7
+    }
+  },
+  "entities": [
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0"
+      },
+      "pointsd": [
+        -175.655269,
+        -10.872897,
+        -155.655269,
+        -10.872897
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0"
+      },
+      "center": [
+        -155.655269,
+        -0.872897
+      ],
+      "radius": 10.0,
+      "start_angle": 270.0,
+      "end_angle": 0.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0"
+      },
+      "pointsd": [
+        -145.655269,
+        -0.872897,
+        -145.655269,
+        1.127103
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0"
+      },
+      "center": [
+        -155.655269,
+        1.127103
+      ],
+      "radius": 10.0,
+      "start_angle": 0.0,
+      "end_angle": 90.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0"
+      },
+      "pointsd": [
+        -155.655269,
+        11.127103,
+        -175.655269,
+        11.127103
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0"
+      },
+      "center": [
+        -175.655269,
+        1.127103
+      ],
+      "radius": 10.0,
+      "start_angle": 90.0,
+      "end_angle": 180.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0"
+      },
+      "pointsd": [
+        -185.655269,
+        1.127103,
+        -185.655269,
+        -0.872897
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0"
+      },
+      "center": [
+        -175.655269,
+        -0.872897
+      ],
+      "radius": 10.0,
+      "start_angle": 180.0,
+      "end_angle": 270.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0"
+      },
+      "pointsd": [
+        154.344731,
+        -10.872897,
+        174.344731,
+        -10.872897
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0"
+      },
+      "center": [
+        174.344731,
+        -0.872897
+      ],
+      "radius": 10.0,
+      "start_angle": 270.0,
+      "end_angle": 0.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0"
+      },
+      "pointsd": [
+        184.344731,
+        -0.872897,
+        184.344731,
+        1.127103
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0"
+      },
+      "center": [
+        174.344731,
+        1.127103
+      ],
+      "radius": 10.0,
+      "start_angle": 0.0,
+      "end_angle": 90.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0"
+      },
+      "pointsd": [
+        174.344731,
+        11.127103,
+        154.344731,
+        11.127103
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0"
+      },
+      "center": [
+        154.344731,
+        1.127103
+      ],
+      "radius": 10.0,
+      "start_angle": 90.0,
+      "end_angle": 180.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0"
+      },
+      "pointsd": [
+        144.344731,
+        1.127103,
+        144.344731,
+        -0.872897
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "0"
+      },
+      "center": [
+        154.344731,
+        -0.872897
+      ],
+      "radius": 10.0,
+      "start_angle": 180.0,
+      "end_angle": 270.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0"
+      },
+      "pointsd": [
+        -196.820622,
+        37.455211,
+        198.92637,
+        37.455211
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0"
+      },
+      "pointsd": [
+        198.92637,
+        37.455211,
+        198.92637,
+        -37.689098
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0"
+      },
+      "pointsd": [
+        198.92637,
+        -37.689098,
+        -196.820622,
+        -37.689098
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0"
+      },
+      "pointsd": [
+        -196.820622,
+        -37.689098,
+        -196.820622,
+        37.455211
+      ]
+    }
+  ]
+}

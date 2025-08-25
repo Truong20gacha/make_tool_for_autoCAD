@@ -1,0 +1,2014 @@
+{
+  "BLOCK_NAME": "cau_dao_lien_dong",
+  "LAYERS": {
+    "BAO": {
+      "color": 3
+    },
+    "0": {
+      "color": 7
+    },
+    "L1": {
+      "color": 7
+    }
+  },
+  "entities": [
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -434.634636,
+        380.656127
+      ],
+      "radius": 16.4602368,
+      "start_angle": 303.6900675260377,
+      "end_angle": 0.0
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -283.200458,
+        380.656127
+      ],
+      "radius": 16.4602368,
+      "start_angle": 180.0,
+      "end_angle": 236.3099324739624
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        241.122699,
+        380.656127
+      ],
+      "radius": 16.4602368,
+      "start_angle": 303.6900675260377,
+      "end_angle": 0.0
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        392.556877,
+        380.656127
+      ],
+      "radius": 16.4602368,
+      "start_angle": 180.0,
+      "end_angle": 236.3099324739624
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 2
+      },
+      "pointsd": [
+        -524.80137,
+        -61.480557,
+        -110.700015,
+        -61.480557
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 2
+      },
+      "pointsd": [
+        -110.303181,
+        12.396696,
+        -524.80137,
+        12.396696
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        -110.361159,
+        1.603118,
+        -524.80137,
+        1.603118
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -248.446538,
+        -98.839543,
+        -314.314673,
+        -98.839543
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -319.803864,
+        -153.637871,
+        -248.446538,
+        -153.637871
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -418.174399,
+        273.085454,
+        -418.174399,
+        248.974232
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -299.660694,
+        273.085454,
+        -299.660694,
+        248.974232
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -319.803864,
+        -197.476397,
+        -319.803864,
+        -153.637871
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -299.660694,
+        75.562613,
+        -299.66677,
+        17.272317
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -418.174399,
+        75.562613,
+        -418.174399,
+        17.272317
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        -524.80137,
+        12.396696,
+        -524.80137,
+        -61.480557
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -314.314673,
+        -98.839543,
+        -314.314673,
+        -61.480557
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -451.245769,
+        212.182578
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 123.6900675260376,
+      "end_angle": 270.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -292.330954,
+        235.278487,
+        -263.850176,
+        216.291302
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -266.589325,
+        212.182578
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 270.0,
+      "end_angle": 56.3099324739624
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -283.200458,
+        183.133285
+      ],
+      "radius": 16.4602368,
+      "start_angle": 180.0,
+      "end_angle": 236.3099324739624
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -434.634636,
+        183.133285
+      ],
+      "radius": 16.4602368,
+      "start_angle": 303.6900675260377,
+      "end_angle": 0.0
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -283.200458,
+        248.974232
+      ],
+      "radius": 16.4602368,
+      "start_angle": 180.0,
+      "end_angle": 236.3099324739624
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -434.634636,
+        248.974232
+      ],
+      "radius": 16.4602368,
+      "start_angle": 303.6900675260377,
+      "end_angle": 0.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -299.660694,
+        207.244507,
+        -299.660694,
+        183.133285
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -418.174399,
+        207.244507,
+        -418.174399,
+        183.133285
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -266.589325,
+        207.244507,
+        -451.245769,
+        207.244507
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -425.50414,
+        235.278487,
+        -453.984918,
+        216.291302
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -451.245769,
+        146.341631
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 123.6900675260376,
+      "end_angle": 270.0
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -451.245769,
+        80.500684
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 123.6900675260376,
+      "end_angle": 270.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -292.330954,
+        169.43754,
+        -263.850176,
+        150.450354
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -292.330954,
+        103.596593,
+        -263.850176,
+        84.609407
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -266.589325,
+        146.341631
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 270.0,
+      "end_angle": 56.3099324739624
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -266.589325,
+        80.500684
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 270.0,
+      "end_angle": 56.3099324739624
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -283.200458,
+        117.292338
+      ],
+      "radius": 16.4602368,
+      "start_angle": 180.0,
+      "end_angle": 236.3099324739624
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -434.634636,
+        117.292338
+      ],
+      "radius": 16.4602368,
+      "start_angle": 303.6900675260377,
+      "end_angle": 0.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -418.174399,
+        141.40356,
+        -418.174399,
+        117.292338
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -299.660694,
+        141.40356,
+        -299.660694,
+        117.292338
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -266.589325,
+        141.40356,
+        -451.245769,
+        141.40356
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -266.589325,
+        75.562613,
+        -451.245769,
+        75.562613
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -425.50414,
+        169.43754,
+        -453.984918,
+        150.450354
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -425.50414,
+        103.596593,
+        -453.984918,
+        84.609407
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -451.245769,
+        343.864473
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 123.6900675260376,
+      "end_angle": 270.0
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -451.245769,
+        278.023525
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 123.6900675260376,
+      "end_angle": 270.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -292.330954,
+        366.960382,
+        -263.850176,
+        347.973196
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -292.330954,
+        301.119434,
+        -263.850176,
+        282.132249
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -266.589325,
+        343.864473
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 270.0,
+      "end_angle": 56.3099324739624
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -266.589325,
+        278.023525
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 270.0,
+      "end_angle": 56.3099324739624
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -283.200458,
+        314.815179
+      ],
+      "radius": 16.4602368,
+      "start_angle": 180.0,
+      "end_angle": 236.3099324739624
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -434.634636,
+        314.815179
+      ],
+      "radius": 16.4602368,
+      "start_angle": 303.6900675260377,
+      "end_angle": 0.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -299.660694,
+        338.926402,
+        -299.660694,
+        314.815179
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -418.174399,
+        338.926402,
+        -418.174399,
+        314.815179
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -266.589325,
+        338.926402,
+        -451.245769,
+        338.926402
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -266.589325,
+        273.085454,
+        -451.245769,
+        273.085454
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -425.50414,
+        366.960382,
+        -453.984918,
+        347.973196
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -425.50414,
+        301.119434,
+        -453.984918,
+        282.132249
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -248.446538,
+        -153.637871,
+        -248.446538,
+        -98.839543
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -210.023064,
+        -65.960592,
+        -210.023064,
+        -197.476397
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 2
+      },
+      "pointsd": [
+        -299.66677,
+        17.272317,
+        -418.180475,
+        17.272317
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 8
+      },
+      "pointsd": [
+        494.447447,
+        1.603118,
+        99.963706,
+        1.603118
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 2
+      },
+      "pointsd": [
+        494.447447,
+        12.396696,
+        99.905728,
+        12.396696
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        257.582935,
+        273.085454,
+        257.582935,
+        248.974232
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        376.09664,
+        273.085454,
+        376.09664,
+        248.974232
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        236.13688,
+        -157.375991,
+        236.13688,
+        -102.577664
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        197.713406,
+        -61.480557,
+        197.713406,
+        -197.476397
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        307.494206,
+        -197.476397,
+        307.494206,
+        -157.375991
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        307.494206,
+        -157.375991,
+        236.13688,
+        -157.375991
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        376.09664,
+        75.562613,
+        376.09664,
+        17.272317
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        257.582935,
+        75.562613,
+        257.582935,
+        17.272317
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 2
+      },
+      "pointsd": [
+        376.09664,
+        17.272317,
+        257.582935,
+        17.272317
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        302.005015,
+        -102.577664,
+        302.005015,
+        -61.480557
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        236.13688,
+        -102.577664,
+        302.005015,
+        -102.577664
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        224.511566,
+        212.182578
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 123.6900675260376,
+      "end_angle": 270.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        383.426381,
+        235.278487,
+        411.907159,
+        216.291302
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        409.16801,
+        212.182578
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 270.0,
+      "end_angle": 56.3099324739624
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        392.556877,
+        183.133285
+      ],
+      "radius": 16.4602368,
+      "start_angle": 180.0,
+      "end_angle": 236.3099324739624
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        241.122699,
+        183.133285
+      ],
+      "radius": 16.4602368,
+      "start_angle": 303.6900675260377,
+      "end_angle": 0.0
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        392.556877,
+        248.974232
+      ],
+      "radius": 16.4602368,
+      "start_angle": 180.0,
+      "end_angle": 236.3099324739624
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        241.122699,
+        248.974232
+      ],
+      "radius": 16.4602368,
+      "start_angle": 303.6900675260377,
+      "end_angle": 0.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        376.09664,
+        207.244507,
+        376.09664,
+        183.133285
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        257.582935,
+        207.244507,
+        257.582935,
+        183.133285
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        409.16801,
+        207.244507,
+        224.511566,
+        207.244507
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        250.253195,
+        235.278487,
+        221.772417,
+        216.291302
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        224.511566,
+        146.341631
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 123.6900675260376,
+      "end_angle": 270.0
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        224.511566,
+        80.500684
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 123.6900675260376,
+      "end_angle": 270.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        383.426381,
+        169.43754,
+        411.907159,
+        150.450354
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        383.426381,
+        103.596593,
+        411.907159,
+        84.609407
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        409.16801,
+        146.341631
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 270.0,
+      "end_angle": 56.3099324739624
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        409.16801,
+        80.500684
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 270.0,
+      "end_angle": 56.3099324739624
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        392.556877,
+        117.292338
+      ],
+      "radius": 16.4602368,
+      "start_angle": 180.0,
+      "end_angle": 236.3099324739624
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        241.122699,
+        117.292338
+      ],
+      "radius": 16.4602368,
+      "start_angle": 303.6900675260377,
+      "end_angle": 0.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        257.582935,
+        141.40356,
+        257.582935,
+        117.292338
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        376.09664,
+        141.40356,
+        376.09664,
+        117.292338
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        409.16801,
+        141.40356,
+        224.511566,
+        141.40356
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        409.16801,
+        75.562613,
+        224.511566,
+        75.562613
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        250.253195,
+        169.43754,
+        221.772417,
+        150.450354
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        250.253195,
+        103.596593,
+        221.772417,
+        84.609407
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "pointsd": [
+        494.447447,
+        12.396696,
+        494.447447,
+        -61.480557
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        224.511566,
+        343.864473
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 123.6900675260376,
+      "end_angle": 270.0
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        224.511566,
+        278.023525
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 123.6900675260376,
+      "end_angle": 270.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        383.426381,
+        366.960382,
+        411.907159,
+        347.973196
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        383.426381,
+        301.119434,
+        411.907159,
+        282.132249
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        409.16801,
+        343.864473
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 270.0,
+      "end_angle": 56.3099324739624
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        409.16801,
+        278.023525
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 270.0,
+      "end_angle": 56.3099324739624
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        392.556877,
+        314.815179
+      ],
+      "radius": 16.4602368,
+      "start_angle": 180.0,
+      "end_angle": 236.3099324739624
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        241.122699,
+        314.815179
+      ],
+      "radius": 16.4602368,
+      "start_angle": 303.6900675260377,
+      "end_angle": 0.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        376.09664,
+        338.926402,
+        376.09664,
+        314.815179
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        257.582935,
+        338.926402,
+        257.582935,
+        314.815179
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        409.16801,
+        338.926402,
+        224.511566,
+        338.926402
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        409.16801,
+        273.085454,
+        224.511566,
+        273.085454
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        250.253195,
+        366.960382,
+        221.772417,
+        347.973196
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        250.253195,
+        301.119434,
+        221.772417,
+        282.132249
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 2
+      },
+      "pointsd": [
+        100.302563,
+        -61.480557,
+        494.447447,
+        -61.480557
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "L1",
+        "color": 2
+      },
+      "pointsd": [
+        -354.847943,
+        590.199916,
+        -107.199495,
+        590.199916
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "L1",
+        "color": 2
+      },
+      "pointsd": [
+        96.802031,
+        590.199916,
+        321.986738,
+        590.199916
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "L1",
+        "color": 2
+      },
+      "pointsd": [
+        -324.197386,
+        564.324224,
+        -107.338487,
+        564.324224
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 2
+      },
+      "pointsd": [
+        -324.197386,
+        478.323225,
+        -324.197386,
+        564.324224
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 2
+      },
+      "pointsd": [
+        -394.959978,
+        564.324224,
+        -394.959978,
+        478.323225
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 2
+      },
+      "pointsd": [
+        -394.959978,
+        478.323225,
+        -324.197386,
+        478.323225
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -451.245769,
+        409.70542
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 123.6900675260376,
+      "end_angle": 270.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -292.330954,
+        432.801329,
+        -263.850176,
+        413.814143
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -266.589325,
+        409.70542
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 270.0,
+      "end_angle": 56.3099324739624
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -418.174399,
+        404.767349,
+        -418.174399,
+        380.656127
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -299.660694,
+        404.767349,
+        -299.660694,
+        380.656127
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -283.200458,
+        446.497074
+      ],
+      "radius": 16.4602368,
+      "start_angle": 180.0,
+      "end_angle": 236.3099324739624
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        -434.634636,
+        446.497074
+      ],
+      "radius": 16.4602368,
+      "start_angle": 303.6900675260377,
+      "end_angle": 0.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -299.660694,
+        470.608296,
+        -299.660694,
+        446.497074
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -418.174399,
+        470.608296,
+        -418.174399,
+        446.497074
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -425.50414,
+        432.801329,
+        -453.984918,
+        413.814143
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -266.589325,
+        404.767349,
+        -451.245769,
+        404.767349
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        -299.660694,
+        470.608296,
+        -418.174399,
+        470.608296
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 2
+      },
+      "pointsd": [
+        -324.197386,
+        564.324224,
+        -394.959978,
+        564.324224
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 2
+      },
+      "pointsd": [
+        351.559948,
+        478.323225,
+        351.559948,
+        564.324224
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 2
+      },
+      "pointsd": [
+        280.797357,
+        564.324224,
+        280.797357,
+        478.323225
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 2
+      },
+      "pointsd": [
+        280.797357,
+        478.323225,
+        351.559948,
+        478.323225
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        224.511566,
+        409.70542
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 123.6900675260376,
+      "end_angle": 270.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        383.426381,
+        432.801329,
+        411.907159,
+        413.814143
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        409.16801,
+        409.70542
+      ],
+      "radius": 4.938071039999996,
+      "start_angle": 270.0,
+      "end_angle": 56.3099324739624
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        257.582935,
+        404.767349,
+        257.582935,
+        380.656127
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        376.09664,
+        404.767349,
+        376.09664,
+        380.656127
+      ]
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        392.556877,
+        446.497074
+      ],
+      "radius": 16.4602368,
+      "start_angle": 180.0,
+      "end_angle": 236.3099324739624
+    },
+    {
+      "type": "ARC",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "center": [
+        241.122699,
+        446.497074
+      ],
+      "radius": 16.4602368,
+      "start_angle": 303.6900675260377,
+      "end_angle": 0.0
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        376.09664,
+        470.608296,
+        376.09664,
+        446.497074
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        257.582935,
+        470.608296,
+        257.582935,
+        446.497074
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        250.253195,
+        432.801329,
+        221.772417,
+        413.814143
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        409.16801,
+        404.767349,
+        224.511566,
+        404.767349
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 8
+      },
+      "pointsd": [
+        376.09664,
+        470.608296,
+        257.582935,
+        470.608296
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "BAO",
+        "color": 2
+      },
+      "pointsd": [
+        351.559948,
+        564.324224,
+        280.797357,
+        564.324224
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "L1",
+        "color": 2
+      },
+      "pointsd": [
+        96.941024,
+        564.324224,
+        280.797357,
+        564.324224
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "L1",
+        "color": 2
+      },
+      "pointsd": [
+        -354.847943,
+        564.200311,
+        -354.847943,
+        590.199916
+      ]
+    },
+    {
+      "type": "LINE",
+      "attribs": {
+        "layer": "L1",
+        "color": 2
+      },
+      "pointsd": [
+        321.986738,
+        590.199916,
+        321.986738,
+        564.324224
+      ]
+    }
+  ]
+}

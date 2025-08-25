@@ -1,0 +1,75 @@
+{
+  "BLOCK_NAME": "su_neo_co_anchor",
+  "LAYERS": {
+    "0": {
+      "color": 7
+    }
+  },
+  "entities": [
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "center": [
+        -2.239089,
+        128.261491
+      ],
+      "major_axis": [
+        108.424540172477,
+        0.0
+      ],
+      "ratio": 0.6372142216992476,
+      "start_param": 0.0,
+      "end_param": 6.283185307179586
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "center": [
+        -2.239089,
+        69.678767
+      ],
+      "major_axis": [
+        94.46653113839426,
+        2.68e-14
+      ],
+      "ratio": 0.731366528933766,
+      "start_param": 2.842968010183812,
+      "end_param": 6.581809950585565
+    },
+    {
+      "type": "ELLIPSE",
+      "attribs": {
+        "layer": "0",
+        "color": 2
+      },
+      "center": [
+        -2.239089,
+        159.584158
+      ],
+      "major_axis": [
+        41.42594465842157,
+        0.0
+      ],
+      "ratio": 0.6798043876182085,
+      "start_param": 0.0,
+      "end_param": 6.283185307179586
+    },
+    {
+      "type": "ANCHOR",
+      "attribs": {
+        "layer": "0"
+      },
+      "tag": "ANCHOR_TOP",
+      "insert": [
+        -1.885549,
+        160.708638
+      ]
+    }
+  ]
+}

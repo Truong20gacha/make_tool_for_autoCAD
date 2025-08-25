@@ -1,3 +1,6 @@
+from dataclasses import dataclass
+
+
 class Entity:
     def draw(self, msp):
         raise NotImplementedError
